@@ -13,7 +13,7 @@ This course will handle the following Python packages.
 * [SciPy](http://www.scipy.org/)
 * [Matplotlib](http://matplotlib.org/)
 * [Pandas](http://pandas.pydata.org/)
-* ipywidgets
+* [ipywidgets](https://github.com/ipython/ipywidgets/blob/master/examples/notebooks/Index.ipynb)
 
 This course will handle the following utility programs.
 * [Continum Anaconda](https://www.continuum.io/why-anaconda)
@@ -22,7 +22,7 @@ This course will handle the following utility programs.
 
 ## Prerequisites
 * You will need an WiFi-enabled notebook with your favorite OS among Windows, Mac, or Linux.
-* Knowledge on programming will be definitely helpful but not necessary. The required skills will be covered when they are needed.
+* Knowledge on programming will be definitely helpful but not required. Those skills will be covered when they are needed.
 
 ## References
 This lecture is based on the following references. Some are And some are paid materials and some are free.
@@ -36,7 +36,7 @@ This lecture is based on the following references. Some are And some are paid ma
 ## Course Outline
 The contents may be added or deleted in advance.
 1. Wed, Feb 3, 2016
- 1. [Introduction on Python](intro_python.ipynb)
+ 1. [Introduction to Python](intro_python.ipynb)
  1. [Glimpse on Python](glimpse.ipynb)
  1. [Useful Jupyter Tips](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb)
 1. Thu, Feb 4, 2016
