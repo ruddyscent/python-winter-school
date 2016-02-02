@@ -6,7 +6,7 @@
 
 ## Course Description
 
-You will bulid up a Python environment which can be used for your subsequent researches and course works. I'll try to give you experiences on data manipulation and analysis, visualization, numerical analysis, optimization through 30 hours course. These contents will serve as a alternative (hopefully better) tools of Microsoft® Excel, Mathworks® Matlab, OriginLab® OriginPro, and some part of Wolfram Research Mathematica. All topics will be demonstrated through live-code examples, available at https://github.com/python-winter-school.
+You will bulid up a Python environment which can be used for your subsequent researches and course works. I'll try to give you experiences on data manipulation and analysis, visualization, numerical analysis, optimization through 30 hours course. These contents will serve as a alternative (hopefully better) tools of Microsoft® Excel, Mathworks® Matlab, OriginLab® OriginPro, and some parts of Wolfram Research Mathematica®. All topics will be demonstrated through live-code examples, available at https://github.com/python-winter-school.
 
 This course will handle the following Python packages.
 * [NumPy](http://www.numpy.org/)
