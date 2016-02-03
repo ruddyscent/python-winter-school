@@ -13,7 +13,6 @@ This course will handle the following Python packages.
 * [SciPy](http://www.scipy.org/)
 * [Matplotlib](http://matplotlib.org/)
 * [Pandas](http://pandas.pydata.org/)
-* [ipywidgets](https://github.com/ipython/ipywidgets/blob/master/examples/notebooks/Index.ipynb)
 
 This course will handle the following utility programs.
 * [Continum Anaconda](https://www.continuum.io/why-anaconda)
@@ -31,41 +30,41 @@ This lecture is based on the following references. Some are And some are paid ma
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Paul Barry, Head First Python, 1st ed. O’Reilly Media, 2010.](http://www.headfirstlabs.com/books/hfpython/)
 * [R. Fitzpatrick, "Introduction to Computational Physics." 16-Jul-2009.](http://farside.ph.utexas.edu/teaching/329/329.html)
-* [Examples of IPython Interactive Widgets](https://github.com/ipython/ipywidgets/blob/master/examples/notebooks/Index.ipynb)
 
 ## Course Outline
 The contents may be added or deleted in advance.
 
-1. Wed, Feb 3, 2016
- 1. [Introduction to Python](intro_python.ipynb)
- 1. [Glimpse on Python](glimpse.ipynb)
- 1. [Useful Jupyter Tips](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb)
-1. Thu, Feb 4, 2016
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/21-exploring.ipynb)
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/22-manipulating.ipynb)
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/23-groupby.ipynb)
-1. Fri, Feb 2, 2016
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/31-primer.ipynb)
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/32-creating.ipynb)
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/33-basic.ipynb)
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/34-computing.ipynb)
-1. Thu, Feb 11, 2016
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/41-notebook.ipynb)
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/42-mpl.ipynb)
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/43-image.ipynb)
-1. Fri, Feb 12, 2016
+1. Getting started with IPython: Wed, Feb 3, 2016
+ 1. [What are Python, IPython, and Jupyter?](intro.ipynb)
+ 1. [Installing Python with Anaconda](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb)
+ 1. [Introducing the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb)
+ 1. [A crash course on Python](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb)
+ 1. [Ten Jupyter/IPython essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/15-ten.ipynb)
+ 1. [Project Euler](https://github.com/ruddyscent/project-euler)
+1. Interactive data analysis with pandas: Thu, Feb 4, 2016
+ 1. [Exploring a dataset in the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/21-exploring.ipynb)
+ 1. [Manipulating data](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/22-manipulating.ipynb)
+ 1. [Complex operations](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/23-groupby.ipynb)
+1. Numerical computing with NumPy: Fri, Feb 5, 2016
+ 1. [A primer to vector computing](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/31-primer.ipynb)
+ 1. [Creating and loading arrays](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/32-creating.ipynb)
+ 1. [Basic array manipulations](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/33-basic.ipynb)
+ 1. [Computing with NumPy arrays](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/34-computing.ipynb)
+1. Interactive plotting and Graphical Interfaces: Thu, Feb 11, 2016
+ 1. [Choosing a plotting backend](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/41-notebook.ipynb)
+ 1. [matplotlib and seaborn essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/42-mpl.ipynb)
+ 1. [Image processing](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/43-image.ipynb)
+ 1. Further plotting and visualization libraries
+1. High-performance and parallel computing: Fri, Feb 12, 2016
+ 1. [Accelerating Python code with Numba](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/51-numba.ipynb)
+ 1. [Writing C in Python with Cython](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/52-cython.ipynb)
+ 1. [Distributing tasks on several cores with IPython.parallel](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/53-parallel.ipynb)
+ 1. Further high-performance computing techniques
+1. Numerical Analysis: Fri, Feb 12, 2016
  1. [Nonlinear Pendulum](fitzpatrick_ch04.ipynb)
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/51-numba.ipynb)
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/52-cython.ipynb)
- 1. [-](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/53-parallel.ipynb)
 
 ## License
 
 [![http://creativecommons.org/licenses/by/4.0/](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work and all other materials under https://github.com/python-winter-school are licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
-
-
-```python
-
-```
