@@ -57,8 +57,16 @@ The contents may be added or deleted in advance.
  1. [Writing C in Python with Cython](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/52-cython.ipynb)
  1. [Distributing tasks on several cores with IPython.parallel](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/53-parallel.ipynb)
  1. Further high-performance computing techniques
+1. Machine learning: Thu, Feb 11, 2016
+ 1. [Introduction to machine learning with SciKit Learn](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Introduction%20to%20Machine%20Learning.ipynb)
+ 1. [Linear regression](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)
+ 1. [Logistic regression](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)
+ 1. [Multi class classification](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Multi-Class%20Classification.ipynb)
+ 1. [Support vector machines](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Support%20Vector%20Machines.ipynb)
+ 1. [Naive bayes](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
+ 1. [Decision trees and random forests](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb)
 1. Numerical analysis: Fri, Feb 12, 2016
- 1. [Nonlinear Pendulum](fitzpatrick_ch04.ipynb)
+ 1. [Nonlinear pendulum](fitzpatrick_ch04.ipynb)
 
 ## License
 
