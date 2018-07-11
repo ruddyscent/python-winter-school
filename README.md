@@ -32,16 +32,16 @@ This lecture is based on the following references. Some materials are paid oness
 The contents may be added or deleted in advance.
 
 1. Getting started with IPython: Wed, Feb 3, 2016
- 1. [What are Python, IPython, and Jupyter?](intro.ipynb)
- 1. [Installing Python with Anaconda](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb)
- 1. [Introducing the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb)
- 1. [A crash course on Python](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb)
- 1. [Ten Jupyter/IPython essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/15-ten.ipynb)
- 1. [Project Euler](https://github.com/ruddyscent/project-euler)
+  1. [What are Python, IPython, and Jupyter?](intro.ipynb)
+  1. [Installing Python with Anaconda](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb)
+  1. [Introducing the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb)
+  1. [A crash course on Python](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb)
+  1. [Ten Jupyter/IPython essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/15-ten.ipynb)
+  1. [Project Euler](https://github.com/ruddyscent/project-euler)
 1. Interactive data analysis with Pandas: Thu, Feb 4, 2016
- 1. [Exploring a dataset in the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/21-exploring.ipynb)
- 1. [Manipulating data](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/22-manipulating.ipynb)
- 1. [Complex operations](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/23-groupby.ipynb)
+  1. [Exploring a dataset in the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/21-exploring.ipynb)
+  1. [Manipulating data](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/22-manipulating.ipynb)
+  1. [Complex operations](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/23-groupby.ipynb)
 1. Numerical computing with NumPy: Fri, Feb 4, 2016
  1. [A primer to vector computing](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/31-primer.ipynb)
  1. [Creating and loading arrays](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/32-creating.ipynb)
