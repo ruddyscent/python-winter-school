@@ -39,34 +39,34 @@ The contents may be added or deleted in advance.
    1. [Ten Jupyter/IPython essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/15-ten.ipynb)
    1. [Project Euler](https://github.com/ruddyscent/project-euler)
 1. Interactive data analysis with Pandas: Thu, Feb 4, 2016
-  1. [Exploring a dataset in the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/21-exploring.ipynb)
-  1. [Manipulating data](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/22-manipulating.ipynb)
-  1. [Complex operations](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/23-groupby.ipynb)
+   1. [Exploring a dataset in the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/21-exploring.ipynb)
+   1. [Manipulating data](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/22-manipulating.ipynb)
+   1. [Complex operations](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/23-groupby.ipynb)
 1. Numerical computing with NumPy: Fri, Feb 4, 2016
- 1. [A primer to vector computing](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/31-primer.ipynb)
- 1. [Creating and loading arrays](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/32-creating.ipynb)
- 1. [Basic array manipulations](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/33-basic.ipynb)
- 1. [Computing with NumPy arrays](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/34-computing.ipynb)
+   1. [A primer to vector computing](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/31-primer.ipynb)
+   1. [Creating and loading arrays](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/32-creating.ipynb)
+   1. [Basic array manipulations](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/33-basic.ipynb)
+   1. [Computing with NumPy arrays](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/34-computing.ipynb)
 1. Interactive plotting and graphical interfaces: Thu, Feb 5, 2016
- 1. [Choosing a plotting backend](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/41-notebook.ipynb)
- 1. [matplotlib and seaborn essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/42-mpl.ipynb)
- 1. [Image processing](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/43-image.ipynb)
- 1. Further plotting and visualization libraries
+   1. [Choosing a plotting backend](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/41-notebook.ipynb)
+   1. [matplotlib and seaborn essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/42-mpl.ipynb)
+   1. [Image processing](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/43-image.ipynb)
+   1. Further plotting and visualization libraries
 1. High-performance and parallel computing: Fri, Feb 5, 2016
- 1. [Accelerating Python code with Numba](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/51-numba.ipynb)
- 1. [Writing C in Python with Cython](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/52-cython.ipynb)
- 1. [Distributing tasks on several cores with IPython.parallel](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/53-parallel.ipynb)
- 1. Further high-performance computing techniques
+   1. [Accelerating Python code with Numba](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/51-numba.ipynb)
+   1. [Writing C in Python with Cython](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/52-cython.ipynb)
+   1. [Distributing tasks on several cores with IPython.parallel](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter5/53-parallel.ipynb)
+   1. Further high-performance computing techniques
 1. Machine learning: Thu, Feb 11, 2016
- 1. [Introduction to machine learning with SciKit Learn](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Introduction%20to%20Machine%20Learning.ipynb)
- 1. [Linear regression](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)
- 1. [Logistic regression](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)
- 1. [Multi class classification](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Multi-Class%20Classification.ipynb)
- 1. [Support vector machines](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Support%20Vector%20Machines.ipynb)
- 1. [Naive bayes](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
- 1. [Decision trees and random forests](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb)
+   1. [Introduction to machine learning with SciKit Learn](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Introduction%20to%20Machine%20Learning.ipynb)
+   1. [Linear regression](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)
+   1. [Logistic regression](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)
+   1. [Multi class classification](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Multi-Class%20Classification.ipynb)
+   1. [Support vector machines](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Support%20Vector%20Machines.ipynb)
+   1. [Naive bayes](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
+   1. [Decision trees and random forests](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb)
 1. Numerical analysis: Fri, Feb 12, 2016
- 1. [Nonlinear pendulum](fitzpatrick_ch04.ipynb)
+   1. [Nonlinear pendulum](fitzpatrick_ch04.ipynb)
 
 ## License
 
